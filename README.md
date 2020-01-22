@@ -6,4 +6,4 @@
   <br>
   
 </h1>
-![Run on Repl.it](https://repl.it/badge/github/RaidTheWeb/Black-Python)](https://repl.it/github/RaidTheWeb/Black-Python)
+[![Run on Repl.it](https://repl.it/badge/github/RaidTheWeb/Black-Python)](https://repl.it/github/RaidTheWeb/Black-Python)
